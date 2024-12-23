@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="", MOTU PATLU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NGX6t1d.jpeg", MOTU PATLU
 http://opplex.live:8080/live/10jun.abbas/51316725/311373.ts
 #EXTINF:-1 tvg-logo="", Chotta Bheem 
 http://opplex.live:8080/live/10jun.abbas/51316725/315401.ts
