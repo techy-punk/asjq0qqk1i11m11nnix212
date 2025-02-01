@@ -50,3 +50,9 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SIX_Landscape_Thumb.jpg" group-logo="https://cdn.dotpe.in/longtail/store-items/3681248/dn7UVIY9.webp" group-title="Sony Liv",SONY SIX
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+EXTINF:-1 tvg-id="17" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony ten 1 HD
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SIX_Landscape_Thumb.jpg" group-logo="https://cdn.dotpe.in/longtail/store-items/3681248/dn7UVIY9.webp" group-title="Sony Liv",SONY ten HD2
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+EXTINF:-1 tvg-id="17" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png', Sony ten hd 3
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
