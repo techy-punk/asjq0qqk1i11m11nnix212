@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mystream" tvg-name="UFC" group-title="Live" tvg-logo ="https://img.hulu.com/user/v3/artwork/7959ce14-90ed-4409-b719-5eb41b159b5d?base_image_bucket_name=image_manager&base_image=b8d10148-f630-4ac0-971d-2639e18ce6f3&size=1200x630&format=webp&operations=[%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A[%7B%22image%22%3A%22image_manager%7Cb29a8af7-85b2-40cb-acf3-e2dd5eb98815%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D]%7D%7D%2C]",UFC LIVE
+#EXTINF:-1 tvg-id="mystream" tvg-name="UFC" group-title="Live" tvg-logo ="",UFC LIVE
 #EXHTTP:{"http-referrer"="https://mardaunt.ru", "authority":"cdn.mardaunt.ru"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://cdn.mardaunt.ru/mystream/stream.m3u8
