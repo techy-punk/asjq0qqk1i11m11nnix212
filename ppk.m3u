@@ -1,0 +1,6 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="mystream" tvg-name="UFC" group-title="Live" tvg-logo ="",UFC LIVE
+#EXHTTP:{"http-referrer"="https://mardaunt.ru", "authority":"cdn.mardaunt.ru"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://cdn.mardaunt.ru/mystream/stream.m3u8
